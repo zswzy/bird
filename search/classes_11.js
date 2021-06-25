@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['samesizetupleprefixcomparator_758',['SameSizeTuplePrefixComparator',['../structstd_1_1tr1_1_1gtest__internal_1_1_same_size_tuple_prefix_comparator.html',1,'std::tr1::gtest_internal']]],
+  ['samesizetupleprefixcomparator_3c_200_2c_200_20_3e_759',['SameSizeTuplePrefixComparator&lt; 0, 0 &gt;',['../structstd_1_1tr1_1_1gtest__internal_1_1_same_size_tuple_prefix_comparator_3_010_00_010_01_4.html',1,'std::tr1::gtest_internal']]],
+  ['samesizetupleprefixcomparator_3c_20k_2c_20k_20_3e_760',['SameSizeTuplePrefixComparator&lt; k, k &gt;',['../structstd_1_1tr1_1_1gtest__internal_1_1_same_size_tuple_prefix_comparator_3_01k_00_01k_01_4.html',1,'std::tr1::gtest_internal']]],
+  ['scoped_5fptr_761',['scoped_ptr',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20_3a_3astd_3a_3astring_20_3e_762',['scoped_ptr&lt; ::std::string &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20_3a_3astd_3a_3astringstream_20_3e_763',['scoped_ptr&lt; ::std::stringstream &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20const_20_3a_3astd_3a_3astring_20_3e_764',['scoped_ptr&lt; const ::std::string &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20const_20t_20_3e_765',['scoped_ptr&lt; const T &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20gtest_5fflag_5fsaver_5f_20_3e_766',['scoped_ptr&lt; GTEST_FLAG_SAVER_ &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20testing_3a_3ainternal_3a_3aparamiteratorinterface_3c_20t_20_3e_20_3e_767',['scoped_ptr&lt; testing::internal::ParamIteratorInterface&lt; T &gt; &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20testing_3a_3ainternal_3a_3atestmetafactorybase_3c_20paramtype_20_3e_20_3e_768',['scoped_ptr&lt; testing::internal::TestMetaFactoryBase&lt; ParamType &gt; &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scoped_5fptr_3c_20valueholderfactory_20_3e_769',['scoped_ptr&lt; ValueHolderFactory &gt;',['../classtesting_1_1internal_1_1scoped__ptr.html',1,'testing::internal']]],
+  ['scopedfaketestpartresultreporter_770',['ScopedFakeTestPartResultReporter',['../classtesting_1_1_scoped_fake_test_part_result_reporter.html',1,'testing']]],
+  ['scopedtrace_771',['ScopedTrace',['../classtesting_1_1internal_1_1_scoped_trace.html',1,'testing::internal']]],
+  ['serializer_5fargs_772',['serializer_args',['../structjsonxx_1_1detail_1_1serializer__args.html',1,'jsonxx::detail']]],
+  ['singlefailurechecker_773',['SingleFailureChecker',['../classtesting_1_1internal_1_1_single_failure_checker.html',1,'testing::internal']]],
+  ['staticasserttypeeqhelper_774',['StaticAssertTypeEqHelper',['../structtesting_1_1internal_1_1_static_assert_type_eq_helper.html',1,'testing::internal']]],
+  ['staticasserttypeeqhelper_3c_20t_2c_20t_20_3e_775',['StaticAssertTypeEqHelper&lt; T, T &gt;',['../structtesting_1_1internal_1_1_static_assert_type_eq_helper_3_01_t_00_01_t_01_4.html',1,'testing::internal']]],
+  ['stream_5finput_5fadapter_776',['stream_input_adapter',['../structjsonxx_1_1stream__input__adapter.html',1,'jsonxx']]],
+  ['stream_5foutput_5fadapter_777',['stream_output_adapter',['../structjsonxx_1_1stream__output__adapter.html',1,'jsonxx']]],
+  ['string_778',['String',['../classtesting_1_1internal_1_1_string.html',1,'testing::internal']]],
+  ['string_5finput_5fadapter_779',['string_input_adapter',['../structjsonxx_1_1string__input__adapter.html',1,'jsonxx']]],
+  ['string_5foutput_5fadapter_780',['string_output_adapter',['../structjsonxx_1_1string__output__adapter.html',1,'jsonxx']]]
+];

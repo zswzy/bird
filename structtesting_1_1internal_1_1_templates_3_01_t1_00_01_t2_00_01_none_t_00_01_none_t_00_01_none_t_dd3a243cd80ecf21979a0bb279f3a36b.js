@@ -1,0 +1,4 @@
+var structtesting_1_1internal_1_1_templates_3_01_t1_00_01_t2_00_01_none_t_00_01_none_t_00_01_none_t_dd3a243cd80ecf21979a0bb279f3a36b =
+[
+    [ "type", "structtesting_1_1internal_1_1_templates_3_01_t1_00_01_t2_00_01_none_t_00_01_none_t_00_01_none_t_dd3a243cd80ecf21979a0bb279f3a36b.html#acff78fc39d4a7e9660fc516a3d6d2e5c", null ]
+];
